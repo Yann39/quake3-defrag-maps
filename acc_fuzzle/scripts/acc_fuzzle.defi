@@ -1,0 +1,8 @@
+{
+map		"acc_fuzzle"
+longname	"fuzzle's attack"
+style		"Accuracy"
+vq3             "1" 
+cpm 	 "1"
+author		"De4th-crY" 
+}

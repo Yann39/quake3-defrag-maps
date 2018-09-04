@@ -24,7 +24,7 @@ Of course there are much more better tools and resources now to build awesome ma
 - Weapons : Rocket Launcher
 - Items : Battle suit, Haste
 
-![de4th_run2](de4th_run2/levelshots/De4th_run2.jpg)
+![de4th_run2](de4th_run2/levelshots/de4th_run2.jpg)
 
 ### acc_fuzzle
 

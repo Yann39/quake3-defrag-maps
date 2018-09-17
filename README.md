@@ -4,7 +4,7 @@ Some **Quake 3 arena** maps I created a long time ago (early 2004) for the **DeF
 
 Build with **GTK Radiant 1.5.0** for **DeFRag 1.9**.
 
-Of course there are much more better tools and resources now to build awesome maps, they are not optimized, but these are the original ones! :)
+Of course there are much more better tools and resources now to build awesome maps, these ones are not optimized, but they are the original ones :)
 
 ## Maps
 
@@ -15,7 +15,7 @@ Of course there are much more better tools and resources now to build awesome ma
 - Weapons : Plasmagun
 - Items : Battle suit, Haste
 
-![de4th_run1](de4th_run1/levelshots/De4th_run1.jpg)
+![de4th_run1](doc/de4th_run1.jpg)
 
 ### de4th_run2
 
@@ -24,7 +24,7 @@ Of course there are much more better tools and resources now to build awesome ma
 - Weapons : Rocket Launcher
 - Items : Battle suit, Haste
 
-![de4th_run2](de4th_run2/levelshots/De4th_run2.tga)
+![de4th_run2](doc/de4th_run2.jpg)
 
 ### acc_fuzzle
 
@@ -33,11 +33,11 @@ Of course there are much more better tools and resources now to build awesome ma
 - Weapons : Railgun
 - Items : Haste
 
-![acc_fuzzle](acc_fuzzle/levelshots/acc_fuzzle.jpg)
+![acc_fuzzle](doc/acc_fuzzle.jpg)
 
 ## Usage
 
-Just put the `.pk3` files in your _q3base_ folder.
+Just put the `.pk3` files in your _baseq3/maps_ folder.
 
 ## Licence
 
@@ -53,7 +53,3 @@ General Public License for more details.
     
 You should have received a copy of the GNU General Public License along with this program.  If not,
 see <http://www.gnu.org/licenses/>.
-
-## Contributing
-
-Feel free to fork the project and/or create pull requests.

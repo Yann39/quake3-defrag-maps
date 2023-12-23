@@ -1,10 +1,25 @@
 ## General
 
+<table>
+  <tr>
+    <td>
+      <picture>
+        <img src="doc/logo-quake3arena.png" alt="Docker logo" height="128" width="128"/>
+      </picture>
+    </td>
+    <td>
+      <img src="doc/logo-defrag.png" alt="Docker logo" height="64" width="317"/>
+    </td>
+  </tr>
+</table>
+
 Some **Quake 3 arena** maps I created a long time ago (early 2004) for the **DeFRag** mod.
 
 Build with **GTK Radiant 1.5.0** for **DeFRag 1.9**.
 
-Of course there are much more better tools and resources now to build awesome maps, these ones are not optimized, but they are the original ones :)
+> [!NOTE]
+> Of course there are much better tools and resources now to build better maps,
+> these are not optimized, but they are the original ones :)
 
 ## Maps
 
